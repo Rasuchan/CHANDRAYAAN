@@ -19,6 +19,10 @@ html {
             font-weight: bold;
 }
 
+element.style {
+            padding-right: 25px;
+}
+
 .section1 {
     padding: 260px 300px;
     background: rgb(19, 12, 46);
